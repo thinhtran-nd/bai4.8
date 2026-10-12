@@ -13,12 +13,14 @@
 ## KẾT QUẢ THỰC HÀNH
 
 ### 1. Ảnh màn hình Giao diện chính
+<img width="1002" height="698" alt="GD" src="https://github.com/user-attachments/assets/dbdd2c82-7d27-4b1d-99f8-2abf382632f6" />
 
 
 
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 
+<img width="796" height="498" alt="CN" src="https://github.com/user-attachments/assets/7e168940-bc51-474e-9180-77b5b0d63bf1" />
 
 
 
